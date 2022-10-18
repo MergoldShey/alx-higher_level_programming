@@ -4,6 +4,7 @@
 
 # A class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
 
+
 class Rectangle:
     """Represent a rectangle."""
 
