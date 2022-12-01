@@ -1,2 +1,2 @@
--- a script to list all records/rows of a table from a database
-SELECT * FROM first_table;
+-- Lists all rows of the table first_table.
+SELECT * FROM `first_table`;
